@@ -13,3 +13,7 @@ https://github.com/IntelRealSense/librealsense/tree/master/wrappers/python
 1. pyrealsense2
 2. face_recognition
 3. dlib
+
+
+You can watch videos of our demo project here:
+https://youtube.com/playlist?list=PLY33K1oWnWu_pMSAv5ko-Zeg_pJyZ9gvo
